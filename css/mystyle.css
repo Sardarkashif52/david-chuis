@@ -259,7 +259,7 @@ h3.menu-item-title{
 	padding-top: 10px;
 	height: 80px;
 }
-.navbar-brand h1{
+.navbar-brand a > h1{
 	padding-top: 10px;
 	font-size: 5vw;
 }
