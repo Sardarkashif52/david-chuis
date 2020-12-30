@@ -252,6 +252,7 @@ h3.menu-item-title{
 	box-shadow: 0 0 50px #3f0c1f;
 	border: 2px solid #3f0c1f;
 }
+
 }
                                                        /** xs Device**/
 @media (max-width: 767px){
@@ -299,7 +300,7 @@ h3.menu-item-title{
 	border: 2px solid #3f0c1f;
 }
 #menu-tile, #specials-tile {
-	width: 360px;
+	width: 330px;
 	margin: 0 auto 15px;
 }
 /** Footer **/
